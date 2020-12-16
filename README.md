@@ -73,8 +73,8 @@ Here are some ideas to get you started:
 
 #### ⚡ Github Stats:
 
-<img align="left" alt="hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzashahab1610&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-<img align="left" alt="hamza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahab1610&hide_border=true&layout=compact" />
+<img align="left" alt="hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzashahab1610&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gotham" />
+<img align="left" alt="hamza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahab1610&hide_border=true&layout=compact&theme=gotham" />
 
 <!---[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamzashahab1610&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahab1610&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)--->
