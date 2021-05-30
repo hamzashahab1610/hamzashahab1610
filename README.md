@@ -71,29 +71,39 @@ Here are some ideas to get you started:
   <img alt="facebook" src="https://img.shields.io/badge/facebook-%231877f2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
+---
+
 <details>
-#### ⚡ Github Stats:
+  
+  <summary>#### ⚡ Github Stats:</summary> 
+
 
 <img align="left" alt="hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzashahab1610&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gotham" />
   
 </details>
 
 <details>
-#### ⚡ Languages Used:
+  
+    <summary>#### ⚡ Languages Used:</summary> 
+
 
 <img align="left" alt="Hamza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahab1610&hide_border=true&layout=compact&theme=gotham" />
   
 </details>
 
 <details>
-#### ⚡ Last Week Activity:
+  
+    <summary>#### ⚡ Last Week Activity:</summary> 
+
 
 <img align="center" alt="Hamza's Last Week Activity" src="https://github-readme-stats-rmi-01.vercel.app/api/wakatime?username=hamzashahab1610&hide_border=true&theme=gotham" />
   
 </details>
 
 <details>
-#### ⚡ GitHub Streak:
+  
+    <summary>#### ⚡ GitHub Streak:</summary> 
+
 
 <img align="center" alt="Hamza's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzashahab1610&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" />
   
