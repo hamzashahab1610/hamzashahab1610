@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <strong>
 
-#### ⚡ Github Stats:
+### ⚡ Github Stats:
 
 </strong>
 
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 <div>
 <strong>
 
-#### ⚡ Languages Used:
+### ⚡ Languages Used:
 
 </strong>
 
@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <div>
 <strong>
 
-#### ⚡ Last Week Activity:
+### ⚡ Last Week Activity:
 
 </strong>
 
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 <div>
 <strong>
 
-#### ⚡ GitHub Streak:
+### ⚡ GitHub Streak:
 
 </strong>
 
