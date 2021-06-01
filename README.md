@@ -72,21 +72,21 @@ Here are some ideas to get you started:
 
 ---
 
-⚡ Github Stats:
+<div>#### ⚡ Github Stats:
 
-<img align="left" alt="hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzashahab1610&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gotham" />
+<img align="left" alt="hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzashahab1610&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gotham" /></div>
 
-⚡ Languages Used:
+<div>#### ⚡ Languages Used:
 
-<img align="left" alt="Hamza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahab1610&hide_border=true&layout=compact&theme=gotham" />
+<img align="left" alt="Hamza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahab1610&hide_border=true&layout=compact&theme=gotham" /></div>
 
-⚡ Last Week Activity:
+<div>#### ⚡ Last Week Activity:
 
-<img align="center" alt="Hamza's Last Week Activity" src="https://github-readme-stats-rmi-01.vercel.app/api/wakatime?username=hamzashahab1610&hide_border=true&theme=gotham" />
+<img align="center" alt="Hamza's Last Week Activity" src="https://github-readme-stats-rmi-01.vercel.app/api/wakatime?username=hamzashahab1610&hide_border=true&theme=gotham" /></div>
 
-⚡ GitHub Streak:
+<div>#### ⚡ GitHub Streak:
 
-<img align="center" alt="Hamza's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzashahab1610&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" />
+<img align="center" alt="Hamza's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzashahab1610&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /></div>
 
 <!---[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamzashahab1610&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahab1610&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)--->
