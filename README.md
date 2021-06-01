@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 </strong>
 
-<img align="center" alt="hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzashahab1610&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gotham" /></div>
+<img align="center" alt="hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzashahab1610&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=gotham" /></div>
 
 <div>
 <strong>
