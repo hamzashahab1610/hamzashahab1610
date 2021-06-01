@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 </strong>
 
-<img align="center" alt="Hamza's Last Week Activity" src="https://github-readme-stats-rmi-01.vercel.app/api/wakatime?username=hamzashahab1610&hide_border=true&theme=gotham" /></div>
+<img align="center" alt="Hamza's Last Week Activity" src="https://github-readme-stats-hamzashahab1610.vercel.app/api/wakatime?username=hamzashahab1610&hide_border=true&theme=gotham" /></div>
 
 <div>
 <strong>
