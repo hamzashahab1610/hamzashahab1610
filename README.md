@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 
 #### 📫 How to reach me:
 
-
 <a href="https://hamzashahab.live/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="website" src="https://img.shields.io/badge/website-%23323330.svg?&style=for-the-badge&logo=Hamza&logoColor=white"/>
 </a>
@@ -73,41 +72,25 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-  
-  <summary>#### ⚡ Github Stats:</summary> 
-
+#### ⚡ Github Stats:
 
 <img align="left" alt="hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzashahab1610&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gotham" />
-  
-</details>
 
-<details>
-  
-    <summary>#### ⚡ Languages Used:</summary> 
 
+#### ⚡ Languages Used:
 
 <img align="left" alt="Hamza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahab1610&hide_border=true&layout=compact&theme=gotham" />
-  
-</details>
 
-<details>
-  
-    <summary>#### ⚡ Last Week Activity:</summary> 
 
+#### ⚡ Last Week Activity:
 
 <img align="center" alt="Hamza's Last Week Activity" src="https://github-readme-stats-rmi-01.vercel.app/api/wakatime?username=hamzashahab1610&hide_border=true&theme=gotham" />
-  
-</details>
 
-<details>
-  
-    <summary>#### ⚡ GitHub Streak:</summary> 
 
+#### ⚡ GitHub Streak:
 
 <img align="center" alt="Hamza's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzashahab1610&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" />
-  
-</details>
+
 
 <!---[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamzashahab1610&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahab1610&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)--->
