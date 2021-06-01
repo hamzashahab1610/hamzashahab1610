@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 
 </strong>
 
-<img align="center" alt="Hamza's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzashahab1610&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /></div>
+<img align="center" alt="Hamzas GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzashahab1610&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /></div>
 
 <!---[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamzashahab1610&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahab1610&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)--->
