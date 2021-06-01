@@ -76,13 +76,13 @@ Here are some ideas to get you started:
 
 #### ⚡ Github Stats:
 
-<img align="left" alt="hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzashahab1610&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gotham" /></div>
+<img align="center" alt="hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamzashahab1610&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gotham" /></div>
 
 <div>
 
 #### ⚡ Languages Used:
 
-<img align="left" alt="Hamza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahab1610&hide_border=true&layout=compact&theme=gotham" /></div>
+<img align="center" alt="Hamza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashahab1610&hide_border=true&layout=compact&theme=gotham" /></div>
 
 <div>
 
