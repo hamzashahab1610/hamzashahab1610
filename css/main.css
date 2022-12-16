@@ -1453,6 +1453,7 @@ header .logo a {
 }
 .intro-content .intro-position span {
 	display: inline-block;
+	color: #cc005f;
 }
 .intro-content .intro-position span::after {
 	content: "|";
@@ -1516,6 +1517,15 @@ header .logo a {
 .intro-social li a:hover,
 .intro-social li a:focus {
 	color: #cc005f;
+}
+iconify-icon {
+	color: #ffffff;
+	margin-bottom: -6px;
+}
+iconify-icon:hover,
+iconify-icon:focus {
+	color: #cc005f;
+	transition: all 0.3s ease-in-out;
 }
 
 /**
