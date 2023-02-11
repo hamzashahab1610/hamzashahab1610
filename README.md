@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <div>
 <strong>
 
-### ⚡ Last Week Activity:
+### ⚡ Wakatime Stats:
 
 </strong>
 
